@@ -1,0 +1,19 @@
+[
+  {
+    "type": "News Claim",
+    "text": "Ronaldo died",
+    "result": "Fact: FALSE \u274c",
+    "confidence": "100.0%",
+    "sources": [
+      "nbcconnecticut.com",
+      "reddit.com",
+      "wikipedia.org",
+      "Wikipedia",
+      "newsweek.com",
+      "hola.com",
+      "facebook.com",
+      "dailymail.co.uk",
+      "usatoday.com"
+    ]
+  }
+]
